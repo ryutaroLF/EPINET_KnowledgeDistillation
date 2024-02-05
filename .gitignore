@@ -1,0 +1,32 @@
+# image 
+*png
+*jpg
+*pfm
+*gif
+*tif
+*tiff
+*mp4
+*pdf
+
+*npy
+
+# hdf
+*.h5
+*.hdf5
+
+*.pyc
+*csv
+*zip
+# output large data
+data/input/BrainLFMConfocalDataset/*
+data/output/*
+runs/*
+images/*
+
+# setting file
+*cfg
+
+license.txt
+
+
+*bin

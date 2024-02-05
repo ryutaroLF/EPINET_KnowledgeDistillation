@@ -1,0 +1,7 @@
+numpy
+h5py
+imageio
+matplotlib
+pandas
+pillow
+ipykernel
