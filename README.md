@@ -4,10 +4,6 @@ Ryutaro Miya, Kawaguchi Tatsuya, Takushi Saito
 
 Contact: miya.r.aa@m.titech.ac.jp
 
-
-![Knowledge distillation framework](./img/model.png)
-
-
 ## Environment
 
 * PyTorch 2.0 (GPU)
@@ -37,8 +33,9 @@ Significant parameters for KD are as following.
 * batch_num_in_1epoch_for_training = 100
 * learning_rate = 0.0001
 
-The best value of batch size we confirmed is 16, otherwise the convergence goes wrong.
+The optimal batch size we have identified is 16; using a different value may lead to issues with convergence.
 
 
 ## Train Model
+1. Optimize the config.ini file
 1. Run .ipynb file (main.ipynb)
