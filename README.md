@@ -1,5 +1,7 @@
 # Knowledge Distillation Framework for Simplified Fast Light Field Depth Estimation CNN Model
 
+![Sine Wave Plot](img/model2.png)
+
 Ryutaro Miya, Kawaguchi Tatsuya, Takushi Saito
 
 Contact: miya.r.aa@m.titech.ac.jp
